@@ -1,0 +1,19 @@
+{
+  "name": "test-node-server",
+  "version": "0.0.1",
+  "description": "test-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenserkuroda/test_node_repo.git"
+  },
+  "author": "Spenser Kuroda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spenserkuroda/test_node_repo/issues"
+  },
+  "homepage": "https://github.com/spenserkuroda/test_node_repo#readme"
+}
